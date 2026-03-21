@@ -10,8 +10,8 @@ I'm a **BTech Computer Science (Data Science)** student and self-driven develope
   and intelligent workflow systems using Python, n8n, and modern AI APIs
 - **AI Systems for Businesses** — Building custom automation and AI solutions that
   solve real operational problems — from lead generation to process intelligence
-
--
+- **Real-World Solutions** — Turning complex business problems into working,
+  deployed systems 
 
 ## 🌱 Always Learning
 
