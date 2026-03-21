@@ -19,26 +19,16 @@ As a self-taught builder, I'm continuously expanding my skills across:
 - **AI Automation** — n8n workflows, agent architectures, tool-use pipelines
 - **Product Development** — turning ideas into shipped, deployed products
 
----
 
-## 🚀 Things I've Built
 
-| Project | Stack | Description |
-|---|---|---|
-| [alreem](https://alreemmandhi.vercel.app) | Next.js · TypeScript | Official website for Al-Reem Mandhi — Kerala's premier Kuzhi Mandhi chain |
-| dentalclinic-website | TypeScript | Full website for a dental clinic — responsive and production-ready |
-| realestate | Next.js| Real estate listings web project |
-
----
 
 ## 🔍 What I'm Looking For
 
-- AI/Automation internship opportunities
-- Freelance web development projects
-- Open-source collaborations in AI tooling or developer utilities
-- Connecting with other student builders and founders
 
----
+- Businesses that need AI systems built — automation, agents, LLM integrations
+- Freelance projects where AI solves a real problem
+- Connecting with founders and builders working on meaningful products
+
 
 ## 🛠️ Tech Stack
 
