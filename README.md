@@ -6,11 +6,12 @@ I'm a **BTech Computer Science (Data Science)** student and self-driven develope
 
 ## 🤖 What I Do
 
-- **AI & Automation Engineering** — Building AI agent pipelines, LLM-powered tools, and workflow automations using n8n, Python, and modern AI APIs
-- **Full-Stack Web Development** — Crafting production-grade web apps with Next.js, TypeScript, and Tailwind CSS — from landing pages to full product builds
-- **Freelance & Client Projects** — Currently building websites for real businesses, handling everything from design to deployment
+- **AI Engineering** — Designing and deploying AI agent pipelines, LLM-powered tools,
+  and intelligent workflow systems using Python, n8n, and modern AI APIs
+- **AI Systems for Businesses** — Building custom automation and AI solutions that
+  solve real operational problems — from lead generation to process intelligence
 
----
+-
 
 ## 🌱 Always Learning
 
