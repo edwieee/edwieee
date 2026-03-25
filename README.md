@@ -21,8 +21,6 @@ As a self-taught builder, I'm continuously expanding my skills across:
 - **Product Development** — turning ideas into shipped, deployed products
 
 
-
-
 ## 🔍 What I'm Looking For
 
 
@@ -38,7 +36,6 @@ As a self-taught builder, I'm continuously expanding my skills across:
 **AI/ML** — LangChain · n8n · Whisper · OpenAI / Anthropic APIs  
 **Tools** — Git · Vercel · Figma · Postman
 
----
 
 ## 📬 How to Reach Me
 
