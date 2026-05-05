@@ -1,43 +1,33 @@
-# Hi there 👋, I'm Edwin Biju
+# Heyy, I'm Edwin Biju
 
-I'm a **BTech Computer Science (Data Science)** student and self-driven developer from Kerala, India — building at the intersection of **AI automation**, **full-stack web development**, and **product thinking**. I'm constantly shipping, learning, and exploring how intelligent systems can solve real-world problems.
+I'm a **BTech Computer Science (Data Science)** student and self-driven developer from Kerala, India.
 
----
-
-## 🤖 What I Do
-
-- **AI Engineering** — Designing and deploying AI agent pipelines, LLM-powered tools,
-  and intelligent workflow systems using Python, n8n, and modern AI APIs
-- **AI Systems for Businesses** — Building custom automation and AI solutions that
-  solve real operational problems — from lead generation to process intelligence
-- **Real-World Solutions** — Turning complex business problems into working,
-  deployed systems 
-
-## 🌱 Always Learning
-
-As a self-taught builder, I'm continuously expanding my skills across:
-- **Large Language Models** — prompt engineering, RAG pipelines, API integration (Anthropic, OpenAI, Gemini)
-- **AI Automation** — n8n workflows, agent architectures, tool-use pipelines
-- **Product Development** — turning ideas into shipped, deployed products
+I build AI automation systems, LLM-powered tools, and full-stack web apps. Currently a second-year BTech student, freelancing on the side — mostly n8n workflows, agent pipelines, and API integrations
 
 
-## 🔍 What I'm Looking For
+
+🛠️ **Tech Stack**
 
 
-- Businesses that need AI systems built — automation, agents, LLM integrations
-- Freelance projects where AI solves a real problem
-- Connecting with founders and builders working on meaningful products
+Python · TypeScript · JavaScript · Next.js · React · Node.js · n8n · LangChain · OpenAI / Anthropic / Gemini APIs · Vercel · Git
+
+**Things I've shipped**
+
+-AI agent pipelines for business automation.
+
+-RAG systems and LLM integrations for client workflows
+
+-Full-stack web apps deployed on Vercel
 
 
-## 🛠️ Tech Stack
-
-**Languages** — TypeScript · Python · JavaScript · C  
-**Frameworks** — Next.js · React · Node.js  
-**AI/ML** — LangChain · n8n · Whisper · OpenAI / Anthropic APIs  
-**Tools** — Git · Vercel · Figma · Postman
 
 
-## 📬 How to Reach Me
+Currently exploring — agentic systems, RAG pipelines, and micro SaaS ideas
 
-- 📧 Email: [edwinbiju135@gmail.com](mailto:edwinbiju135@gmail.com)
-- 💼 Linkedin: (https://www.linkedin.com/in/edwinbiju135)
+-Email: edwinbiju135@gmail.com
+
+-Linkedin: (https://www.linkedin.com/in/edwinbiju135)
+
+Open to freelance projects
+
+
