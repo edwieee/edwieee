@@ -17,7 +17,7 @@ Python · TypeScript · JavaScript · Next.js · React · Node.js · n8n · Lang
 
 -RAG systems and LLM integrations for client workflows
 
--Full-stack web apps deployed on Vercel
+-Full-stack web apps deployed.
 
 
 
